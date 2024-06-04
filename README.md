@@ -58,5 +58,5 @@ Motores DC (corrente contínua) e motores de passo são amplamente empregados em
     }
 
 ## Funcionamento do projeto
-Projeto tem o intuito de definir a frequência do motor com base no botão sendo apertado e alterando os valores da frequência e seus usos, onde temos um oscilometro para medir as oscilações entre frequência e assim modificar as velocidades do motor.
+O objetivo deste projeto é determinar a frequência do motor com base na interação do usuário ao pressionar um botão, permitindo a alteração dos valores de frequência e suas aplicações. O sistema inclui um oscilômetro para medir as variações de frequência, o que possibilita ajustar as velocidades do motor de forma precisa. Quando o botão é pressionado, os valores de frequência são modificados, e essas mudanças são monitoradas pelo oscilômetro, que registra as oscilações. Com essas medições, podemos ajustar a velocidade do motor de acordo com as necessidades específicas da aplicação, garantindo um controle eficiente e dinâmico do desempenho do motor.
 
