@@ -3,7 +3,8 @@ Atividade avaliativa - Sistemas embarcados
 
 
 ## Introdução à Modulação por Largura de Pulso (PWM)
-A Modulação por Largura de Pulso (PWM) é uma técnica empregada para regular a quantidade de energia que chega a um dispositivo eletrônico. Ao modificar a largura dos pulsos em uma série de sinais de controle, a PWM permite ajustar a potência média fornecida ao dispositivo, mantendo constante a frequência do sinal.
+A Modulação por Largura de Pulso (PWM) é uma técnica amplamente utilizada para controlar a quantidade de energia fornecida a um dispositivo eletrônico. Ao alterar a largura dos pulsos em uma sequência de sinais de controle, a PWM permite ajustar a potência média entregue ao dispositivo, mantendo a frequência do sinal constante. Esse método é especialmente eficaz porque, ao variar a duração dos pulsos, é possível regular com precisão a quantidade de energia sem alterar a frequência, garantindo uma operação eficiente e estável do dispositivo eletrônico.
+
 
 ## Componentes Necessários
 ### Arduino Nano
